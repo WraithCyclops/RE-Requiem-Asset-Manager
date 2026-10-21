@@ -1,6 +1,6 @@
 # 🧟 RE-Requiem-Asset-Manager
 
-![Uploading image.png…]()
+<img width="1892" height="986" alt="image" src="https://github.com/user-attachments/assets/8bb72f54-3bc0-4865-9fcd-96804ea40002" />
 
 
 <p align="center">

